@@ -1,6 +1,6 @@
 Package: mskeyrun
 Title: All information for keyrun review
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
   c(person(given = "Andy", family = "Beet", role = c("aut"), email = "andrew.beet@noaa.gov"),
     person(given = "Sean", family = "Lucey", role = c("aut"), email = "sean.lucey@noaa.gov"),
